@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "login": "Imangali",
+      "score": 32
+    },
+    {
+      "login": "test",
+      "score": 15
+    },
+    {
+      "login": "new user",
+      "score": 9
+    },
+    {
+      "login": "mangal",
+      "score": 4
+    },
+    {
+      "login": "test1",
+      "score": 4
+    }
+  ]
+}

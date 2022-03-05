@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "login": "mangal",
+      "password": "827ccb0eea8a706c4c34a16891f84e7b"
+    },
+    {
+      "login": "test",
+      "password": "202cb962ac59075b964b07152d234b70"
+    },
+    {
+      "login": "ffsfsdd",
+      "password": "6e9a103fd0d94e107e97a5e1087c810d"
+    },
+    {
+      "login": "test1",
+      "password": "202cb962ac59075b964b07152d234b70"
+    },
+    {
+      "login": "new user",
+      "password": "202cb962ac59075b964b07152d234b70"
+    },
+    {
+      "login": "test3",
+      "password": "202cb962ac59075b964b07152d234b70"
+    },
+    {
+      "login": "Imangali",
+      "password": "888923001645812708192cac2fa00fe6"
+    }
+  ]
+}
